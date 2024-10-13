@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.7.0",
+    "node": "^20.18.0",
+    "nodemon": "^3.1.7",
+    "pg": "^8.13.0"
+  },
+  "name": "login-signup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/express": "^5.0.0"
+  },
+  "description": ""
+}
